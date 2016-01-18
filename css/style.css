@@ -71,6 +71,12 @@ a:hover{
 	position:relative;
 	left:-10px;
 }
+
+.subtitle i{
+	position:relative;
+	left:-5px;
+}
+
 #about_card>.tab>.content{
 	padding:5px 20px 5px 20px;
 	position:relative;
